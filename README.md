@@ -1,4 +1,4 @@
-# RockPaperScissors
+# Rock Paper Scissors
 Rock, Paper, Scissors game using Swift
 
 ## Modes
